@@ -4,13 +4,32 @@
  <title>Jamal's Website</title>
  <link href="http://jamalblog.github.io/atom.xml" rel="self"/>
  <link href="http://jamalblog.github.io/"/>
- <updated>2015-08-29T19:54:54-03:00</updated>
+ <updated>2015-08-29T21:56:29-03:00</updated>
  <id>http://jamalblog.github.io</id>
  <author>
    <name>Jamal Smith</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>My very own Website!</title>
+   <link href="http://jamalblog.github.io/2015/08/29/my-very-own-website/"/>
+   <updated>2015-08-29T00:00:00-03:00</updated>
+   <id>http://jamalblog.github.io/2015/08/29/my-very-own-website</id>
+   <content type="html">&lt;p&gt;I&amp;#39;ve wanted my very own corner of the Internet for a long time now.&lt;/p&gt;
+
+&lt;p&gt;Now finally I have that!   &lt;/p&gt;
+
+&lt;h1&gt;Blog Agendas&lt;/h1&gt;
+
+&lt;p&gt;I don&amp;#39;t have an exact agenda for site yet, so for now this can be place can be considered my general purpose blog. With my interest in tech and computing, this place will mostly have a tech/computing flavor to it.&lt;/p&gt;
+
+&lt;p&gt;Then again, I do have other interests and hobbies who&amp;#39;s aspects I hope I can make shine through as well.&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading!&lt;/p&gt;
+</content>
+ </entry>
  
 
 </feed>
